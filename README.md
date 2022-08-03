@@ -8,3 +8,4 @@ Reinforced knowledge of:
 - Lists
 - Git commands
 - Terminal commands
+- Basic CSS
